@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains final exam along with solution set.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

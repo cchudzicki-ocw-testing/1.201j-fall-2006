@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains assignments given over the course of the semester.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
